@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_expanded" type="id" />
+    <item name="v_container" type="id" />
+    <item name="base_tag_glide" type="id" />
+</resources>

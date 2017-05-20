@@ -1,0 +1,6 @@
+[submodule "ThirdParty/AndroidUtilCode"]
+	path = ThirdParty/AndroidUtilCode
+	url = https://github.com/Sherchen/AndroidUtilCode.git
+[submodule "ThirdParty/ArchitectureTemplate"]
+	path = ThirdParty/ArchitectureTemplate
+	url = https://github.com/Sherchen/ArchitectureTemplate.git
